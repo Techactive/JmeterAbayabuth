@@ -1,0 +1,26 @@
+Label,# Samples,Average,Min,Max,Std. Dev.,Error %,Throughput,KB/sec,Avg. Bytes
+https://www.abayabuth.com/,1,11877,11877,11877,0,0.00%,0.1,396.76,4825420
+Home page ,1,1988,1988,1988,0,0.00%,0.5,0.68,1379
+what's New ,1,10006,10006,10006,0,0.00%,0.1,373,3821811
+whatsnew business ,1,1418,1418,1418,0,0.00%,0.7,6.48,9412
+https://events.privy.com/v2/collect,1,1609,1609,1609,0,0.00%,0.6,0.38,632
+Preview ,2,1541,879,2204,662.5,0.00%,0,0.01,476
+whats-new1/black-velvet-cape-with-silver-mist-floral-lace,1,9144,9144,9144,0,0.00%,0.1,245.06,2294579
+Businesses,1,1402,1402,1402,0,0.00%,0.7,6.56,9412
+Add to cart ,1,914,914,914,0,0.00%,1.1,0.47,440
+https://www.abayabuth.com/frontend/cart_details/side_update1,1,1509,1509,1509,0,0.00%,0.7,8.25,12744
+proceed-checkout,1,9849,9849,9849,0,0.00%,0.1,150.2,1514847
+Businesses ,3,1484,792,2265,604.54,0.00%,0,0.35,9414.3
+Account Preview ,1,1459,1459,1459,0,0.00%,0.7,0.32,476
+account ,1,17933,17933,17933,0,0.00%,0.1,84.92,1559386
+After login proceed-checkout,1,10296,10296,10296,0,0.00%,0.1,146.25,1541926
+Busniess ,1,2364,2364,2364,0,0.00%,0.4,3.89,9412
+Check out preview ,1,1433,1433,1433,0,0.00%,0.7,0.32,476
+ship-methods,1,4918,4918,4918,0,0.00%,0.2,0.28,1429
+get_country_name,1,1001,1001,1001,0,0.00%,1,0.44,449
+order_summary page,1,3810,3810,3810,0,0.00%,0.3,0.11,434
+Oder summary Preview ,1,878,878,878,0,0.00%,1.1,0.53,476
+lookbook page,1,10951,10951,10951,0,0.00%,0.1,412.85,4629593
+https://api.privy.com/businesses/20D19A356D7392BB015FADF6/campaigns.json?l=https%3A%2F%2Fwww.abayabuth.com%2Flookbook&s=j&fence=1&user_uuid=b1df1b02-089a-4375-a283-52a628af2147,1,1725,1725,1725,0,0.00%,0.6,5.33,9419
+Test,1,114021,114021,114021,0,0.00%,0,110.7,20273347
+TOTAL,27,8446,792,114021,21190.72,0.00%,0.2,221.39,1501729.4
